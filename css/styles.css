@@ -2,3 +2,7 @@
 
 /* TITLE */
 #title {background-color: #ff4c68;}
+
+div h1 {
+  font-family: "Ubuntu-Black", sans-serif; font-size: 3rem; line-height: 1.5;
+}
