@@ -159,10 +159,10 @@ p {
 
 .card-body .button-wrap {
   margin-top: 60px;  
-}
-/* .card-body .button-wrap::not(:last-child) {
+} 
+/* .card-body .button-wrap:not(:last-child) {
   margin-top: 60px;  
-} */
+}  */
 /* CTA Section */
 
 
