@@ -154,8 +154,15 @@ p {
 
 .pricing-column {
   padding: 3% 2%;
+  display: flex;
 }
 
+.card-body .button-wrap {
+  margin-top: 60px;  
+}
+/* .card-body .button-wrap::not(:last-child) {
+  margin-top: 60px;  
+} */
 /* CTA Section */
 
 
