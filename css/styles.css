@@ -156,11 +156,10 @@ p {
   padding: 3% 2%;
   display: flex;
   justify-content: space-between;
-  max-width: 80%;
 }
 .pricing-column > div.card {
-  flex: 1 1 auto;
-  max-width:380px;
+  flex: 1 0 auto;
+  max-width:300px;
 }
 
 .card-body .button-wrap {
@@ -188,5 +187,5 @@ p {
   .title-image {
     position: static;
     transform: rotate(0);
-  }
+  } 
 }
