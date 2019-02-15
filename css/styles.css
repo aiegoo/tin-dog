@@ -155,6 +155,12 @@ p {
 .pricing-column {
   padding: 3% 2%;
   display: flex;
+  justify-content: space-between;
+  max-width: 80%;
+}
+.pricing-column > div.card {
+  flex: 1 1 auto;
+  max-width:380px;
 }
 
 .card-body .button-wrap {
